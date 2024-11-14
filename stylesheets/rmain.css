@@ -4,6 +4,9 @@
 	padding : 0; 
 }
 
+header {
+	background-color : #000080;
+}
 header img{
 	float: left; 
 }
