@@ -23,12 +23,12 @@ head img{
     text-align: center;
     padding: 1em 0;
     text-decoration: none;
-    background-color: #800000;
+    background-color: #808080;
     color: white;
     font-weight: bold;
 }
 #menu a.current {
-	color: yellow;
+	color: #800000;
 }
 #menu ul ul {
     display: none;
