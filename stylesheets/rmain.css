@@ -27,17 +27,7 @@ head img{
     color: white;
     font-weight: bold;
 }
-#menu a.current {
-	color: #800000;
-}
-#menu ul ul {
-    display: none;
-    position: absolute;
-    top: 100%;
-}
-#menu ul ul li {
-	float: none;
-}
+
 #menu ul li:hover > ul {
 	display: block;
 }
