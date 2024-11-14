@@ -5,8 +5,9 @@
 }
 
 header {
-	color : white; 
 	background-color : #A5A9B4;
+	color : white; 
+
 }
 header img{
 	float: left; 
