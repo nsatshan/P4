@@ -23,16 +23,11 @@ header img{
     text-align: center;
     padding: 1em 0;
     text-decoration: none;
-    background-color: #808080;
+    background-color: #000080;
     color: white;
     font-weight: bold;
 }
 
 #menu ul li:hover > ul {
 	display: block;
-}
-#menu > ul::after {
-    content: "";
-    clear: both;
-    display: block;
 }
