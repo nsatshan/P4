@@ -28,7 +28,7 @@ main img {
 	position: relative;
 }
 #menu ul li {
-	float: left;
+	float: right;
 }
 #menu ul li a {
     display: block;
@@ -43,4 +43,8 @@ main img {
 
 #menu ul li:hover > ul {
 	display: block;
+}
+
+footer {
+	 text-align: center;
 }
