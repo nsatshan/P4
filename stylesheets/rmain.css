@@ -7,16 +7,16 @@ header img{
 	float: left; 
 }
 
-#nav_menu ul {
+#menu ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	position: relative;
 }
-#nav_menu ul li {
+#menu ul li {
 	float: left;
 }
-#nav_menu ul li a {
+#menu ul li a {
     display: block;
     width: 160px;
     text-align: center;
@@ -26,21 +26,21 @@ header img{
     color: white;
     font-weight: bold;
 }
-#nav_menu a.current {
+#menu a.current {
 	color: yellow;
 }
-#nav_menu ul ul {
+#menu ul ul {
     display: none;
     position: absolute;
     top: 100%;
 }
-#nav_menu ul ul li {
+#menu ul ul li {
 	float: none;
 }
-#nav_menu ul li:hover > ul {
+#menu ul li:hover > ul {
 	display: block;
 }
-#nav_menu > ul::after {
+#menu > ul::after {
     content: "";
     clear: both;
     display: block;
