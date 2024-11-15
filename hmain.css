@@ -1,0 +1,70 @@
+*{
+	margin: 0; 
+	padding : 0; 
+}
+html {
+	background-color: white; 
+}
+body {
+	background-color: white; 
+}
+
+header {
+	padding: 1.5em 0 2em 0;
+	background-color : #757575;
+	color : white; 
+
+}
+header h2 {
+	color : white; 
+	font-size: 150%;
+
+}
+header img{
+	float: left; 
+	padding: 0 40px;
+
+}
+
+
+a:focus, a:hover {
+	font-style: italic;
+}
+
+#menu ul {
+	list-style-type: none;
+	margin: 4px 0;
+	padding: 4px 0;
+	position: relative;
+}
+#menu ul li {
+	float: left;
+}
+#menu ul li a {
+    display: block;
+    width: 160px;
+    text-align: center;
+    padding: 3em 0;
+    text-decoration: none;
+    background-color: #757575;
+    color: white;
+    font-weight: bold;
+}
+
+#menu ul li:hover > ul {
+	display: block;
+}
+
+/* cards rulers*/ 
+
+.card{
+	margin: 10px 0; 
+	padding: 10px 0; 
+	float: left; 
+	position: relative;
+	background-color: #511418; 
+}
+
+footer {
+	 text-align: center;
+}
