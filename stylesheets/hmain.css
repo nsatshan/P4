@@ -58,11 +58,12 @@ a:focus, a:hover {
 /* cards rulers*/ 
 
 .card{
-	margin: 2px 0; 
-	padding: 3px 0; 
+	margin: 10px 10px; 
+	padding: 10px 0; 
 	float: left; 
 	position: relative;
 	background-color: #511418; 
+	color: white; 
 }
 
 footer {
