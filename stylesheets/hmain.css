@@ -38,7 +38,7 @@ a:focus, a:hover {
 	position: relative;
 }
 #menu ul li {
-	float: right;
+	float: left;
 }
 #menu ul li a {
     display: block;
