@@ -28,7 +28,8 @@ header img{
 }
 
 main img {
-	margin : 0; 
+	margin : 30px 30px; 
+	padding : 30px 30px; 
 }
 
 a:focus, a:hover {
