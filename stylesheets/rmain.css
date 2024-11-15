@@ -28,8 +28,8 @@ header img{
 }
 
 main img {
-	margin : 0; 
-	padding: 40px 40px;
+	margin : 60px 60px; 
+	padding: 60px 60px;
 }
 
 a:focus, a:hover {
@@ -43,7 +43,8 @@ a:focus, a:hover {
 	position: relative;
 }
 #menu ul li {
-	float: right;
+	float: left;
+	padding-right: 50px; 
 }
 #menu ul li a {
     display: block;
