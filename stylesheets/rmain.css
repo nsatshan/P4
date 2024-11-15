@@ -7,6 +7,12 @@ html {
 	background-color: white; 
 }
 body {
+	 font-family: Arial, sans-serif;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     margin: 0;
 	background-color: white; 
 }
 
@@ -22,8 +28,9 @@ header h2 {
 
 }
 header img{
-	float: left; 
-	padding: 0 40px;
+	 max-width: 100%;
+     height: auto;
+     border-radius: 8px;
 
 }
 
