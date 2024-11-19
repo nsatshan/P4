@@ -56,19 +56,18 @@ a:focus, a:hover {
 }
 
 /* cards rulers*/ 
-
 .container{
-	display: flex;                /* Use Flexbox to center items */
-    justify-content: center;      /* Center the cards horizontally */
-    flex-wrap: wrap;              /* Allow wrapping of cards */
-    height: 100vh;   
+	display: flex;                
+    justify-content: center;      
+    flex-wrap: wrap;              
+	padding: 20px;
 }
 .card{
 	margin: 5px; 
 	padding: 10px 10px; 
-	position: relative;
 	background-color: #511418; 
 	color: white; 
+	flex: 0 1 300px; 
 }
 footer {
 	 text-align: center;
