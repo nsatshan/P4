@@ -23,7 +23,6 @@ header h2 {
 header img{
 	float: left; 
 	padding: 0 40px;
-
 }
 
 
@@ -34,7 +33,7 @@ a:focus, a:hover {
 #menu ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 1em 0;
+	padding: 0;
 	position: relative;
 }
 #menu ul li {
@@ -44,7 +43,7 @@ a:focus, a:hover {
     display: block;
     width: 160px;
     text-align: center;
-    padding: 1em 0;
+    padding: 0;
     text-decoration: none;
     background-color: #757575;
     color: white;
