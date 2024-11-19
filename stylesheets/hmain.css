@@ -33,7 +33,7 @@ a:focus, a:hover {
 
 #menu ul {
 	list-style-type: none;
-	margin: 4px 0;
+	margin: 0;
 	padding: 3em 0;
 	position: relative;
 }
@@ -57,10 +57,16 @@ a:focus, a:hover {
 
 /* cards rulers*/ 
 
+.container{
+	display: flex;                /* Use Flexbox to center items */
+    justify-content: center;      /* Center the cards horizontally */
+    align-items: center;          /* Center the cards vertically */
+    flex-wrap: wrap;              /* Allow wrapping of cards */
+    height: 100vh;   
+}
 .card{
-	margin: 5em 2em; 
-	padding: 5em 0; 
-	float: left; 
+	margin: 5px; 
+	padding: 10px 0; 
 	position: relative;
 	background-color: #511418; 
 	color: white; 
