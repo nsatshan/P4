@@ -10,7 +10,7 @@ body {
 }
 
 header {
-	padding: 1.5em 0 2em 0;
+	padding: 1.5em 0 2em 1.5em;
 	background-color : #757575;
 	color : white; 
 
@@ -33,8 +33,8 @@ a:focus, a:hover {
 
 #menu ul {
 	list-style-type: none;
-	margin: 0;
-	padding: 3em 0;
+	margin: 15px 0;
+	padding: 3em;
 	position: relative;
 }
 #menu ul li {
@@ -44,7 +44,7 @@ a:focus, a:hover {
     display: block;
     width: 160px;
     text-align: center;
-    padding: 3em 0;
+    padding: 4em 0;
     text-decoration: none;
     background-color: #757575;
     color: white;
