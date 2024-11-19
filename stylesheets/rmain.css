@@ -49,7 +49,7 @@ a:focus, a:hover {
 	position: relative;
 }
 #menu ul li {
-	float: left;
+	float: right;
 }
 #menu ul li a {
     display: block;
