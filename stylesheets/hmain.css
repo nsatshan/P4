@@ -60,13 +60,12 @@ a:focus, a:hover {
 .container{
 	display: flex;                /* Use Flexbox to center items */
     justify-content: center;      /* Center the cards horizontally */
-    align-items: center;          /* Center the cards vertically */
     flex-wrap: wrap;              /* Allow wrapping of cards */
     height: 100vh;   
 }
 .card{
 	margin: 5px; 
-	padding: 10px 0; 
+	padding: 10px 10px; 
 	position: relative;
 	background-color: #511418; 
 	color: white; 
