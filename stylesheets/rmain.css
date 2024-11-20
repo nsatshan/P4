@@ -27,15 +27,18 @@ header img{
 	padding: 0 40px;
 }
 
-main img {
-	margin : 30px 30px; 
-	padding : 30px 30px; 
+main {
 	border: 10px bold black;
 	display: flix; 
 	position: relative; 
 	align-items: center; 
 	justify-content: center; 
 	overflow: hidden; 
+}
+main img {
+	margin : 30px 30px; 
+	padding : 30px 30px; 
+	border: 10px bold black;
 }
 
 a:focus, a:hover {

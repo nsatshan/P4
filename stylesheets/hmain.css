@@ -55,18 +55,14 @@ a:focus, a:hover {
 }
 
 /* cards rulers*/ 
-.container{
-	display: flex;                
-    justify-content: center;      
-    flex-wrap: wrap;              
-	padding: 20px;
-}
 .card{
 	margin: 5px; 
 	padding: 10px 10px; 
 	background-color: #511418; 
 	color: white; 
 	flex: 0 1 300px; 
+	justify-content: center;      
+
 }
 footer {
 	 text-align: center;
