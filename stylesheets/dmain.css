@@ -89,11 +89,11 @@ main h4{
 	color: black; 
 	text-align: center;
 	font-family: "Times New Roman", Times, serif; 	
+	margin-bottom: 2em; 
 }
 
 .container {
     max-width: 1200px;
-	margin-top: 3em;
     margin: auto;
     background: white;
     padding: 20px;
