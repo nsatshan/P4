@@ -61,9 +61,10 @@ header img{
 }
 
 #menu ul li a:hover {
-    background-color: #800000; /* Change color on hover */
+    background-color: #800000; 
 }
 
+/*main rulers */
 main img {
 	margin : 30px 30px; 
 	padding : 30px 30px; 
