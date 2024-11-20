@@ -27,6 +27,7 @@ header h2 {
 header img{
 	float: left; 
 	padding: 0 20px;
+	padding-bottom: 36px;
 	max-height: 50px;
 }
 
