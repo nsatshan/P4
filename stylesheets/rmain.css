@@ -74,8 +74,9 @@ main img {
 	transition: opacity 0.3s ease;
 }
 main img:hover {
-	
-    content: url('https://nsatshan.github.io/P4/images/enterpic.jpg');
+    content: url('https://nsatshan.github.io/P4/images/enter2.jpg');
+	max-width: 100%;
+	height: auto; 
 }
 
 main h2{
