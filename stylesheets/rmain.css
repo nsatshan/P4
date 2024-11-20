@@ -31,6 +31,24 @@ header img{
 	max-height: 50px;
 }
 
+.auth-links {
+    display: flex;
+    align-items: center; 
+    margin-left: 20px; 
+}
+
+.auth-links a {
+    color: white; 
+    text-decoration: none; 
+    margin-left: 15px; 
+    font-weight: bold; 
+    transition: color 0.3s; 
+}
+
+.auth-links a:hover {
+    color: #F7879A; 
+}
+
 #menu{
 	 flex-grow: 1;
     text-align: right;
