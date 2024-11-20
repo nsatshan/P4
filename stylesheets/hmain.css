@@ -25,6 +25,12 @@ header h2 {
 
 }
 
+header img{
+	float: left; 
+	padding: 0 20px;
+	max-height: 50px;
+}
+
 #menu{
 	 flex-grow: 1;
     text-align: right;
@@ -68,11 +74,11 @@ header h2 {
 }
 .card{
 	margin: 2em; 
+	padding-bottom: 36px;
 	padding: 10px 10px; 
 	background-color: #511418; 
 	color: white;  
 	margin-top: 2em;   
-	padding-bottom: 36px;	
 
 }
 
