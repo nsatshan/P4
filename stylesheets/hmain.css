@@ -61,8 +61,8 @@ a:focus, a:hover {
     flex-wrap: wrap;
 }
 .card{
-	margin: 5em; 
-	padding: 10px 15px; 
+	margin: 2em; 
+	padding: 10px 10px; 
 	background-color: #511418; 
 	color: white;      
 
