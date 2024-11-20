@@ -82,10 +82,14 @@ header img{
     background-color: #F7879A; 
 }
 
+#menu ul li a.active {
+    background-color: #F7879A; 
+    color: white; 
+}
+
 /*main rulers */
 
 main h4{
-	margin-top: 1em; 
 	margin-bottom: 3em;
 	color: black; 
 	text-align: center;

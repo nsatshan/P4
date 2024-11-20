@@ -82,6 +82,11 @@ header img{
     background-color: #F7879A; 
 }
 
+#menu ul li a.active {
+    background-color: #F7879A; 
+    color: white; 
+}
+
 
 /* cards rulers*/ 
 .container {
