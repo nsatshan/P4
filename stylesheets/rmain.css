@@ -65,15 +65,31 @@ header img{
 }
 
 /*main rulers */
-main h2{
-	text-align: center;
-}
 main img {
 	margin : 30px 30px; 
 	padding : 30px 30px; 
-	border: 20px solid #5114180; 
+	border: 20px solid #511418; 
 	max-width: 100%;
 	height: auto; 
+}
+main h2{
+	margin-top: 1em; 
+	color: black; 
+	text-align: center;
+	font-family: "Times New Roman", Times, serif; 
+	text-shadow: -2px -2px 4px red; 
+	
+}
+
+main p{
+	font-style: italic;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif; 
+}
+
+main h6{
+	font-family: "Times New Roman", Times, serif;
+	text-align: center; 
 }
 
 a:focus, a:hover {
