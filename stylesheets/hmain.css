@@ -75,7 +75,8 @@ header img{
 .card{
 	margin: 2em; 
 	padding-bottom: 36px;
-	padding: 10px 10px; 
+	padding-right: 10px ; 
+	padding-left: 10px; 
 	background-color: #511418; 
 	color: white;  
 	margin-top: 2em;   
