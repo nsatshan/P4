@@ -32,14 +32,15 @@ header img{
 }
 
 .auth-links {
+    display: flex; 
+    align-items: center; 
     margin-left: 20px; 
-	color: white; 
 }
 
 .auth-links a {
     color: white; 
     text-decoration: none; 
-    margin-left: 5px; 
+    margin-left: 15px; 
     font-weight: bold; 
     transition: color 0.3s; 
 }
