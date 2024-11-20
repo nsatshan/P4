@@ -90,6 +90,7 @@ header img{
 /*main rulers */
 main img {
 	margin : 30px 60px; 
+	margin-left: 4em; 
 	padding : 30px 30px; 
 	border: 10px solid #511418; 
 	max-width: 100%;
