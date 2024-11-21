@@ -104,6 +104,10 @@ header img{
 	text-align: right; 
 	background-color: #511418; 
 }
+.navbar navbar-expand-md justify-content-start bg-dark navbar-dark col-12 {
+	background-color: #511418;
+	text-align: right; 
+}
 
 /*main rulers */
 
