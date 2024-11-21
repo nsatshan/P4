@@ -49,21 +49,21 @@ header img{
     color: #F7879A; 
 }
 
-#menu{
+#collapsibleNavbar{
 	 flex-grow: 1;
     text-align: right;
 }
-#menu ul {
+#collapsibleNavbar ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 1em 0;
 }
 
-#menu ul li {
+#collapsibleNavbar ul li {
 	display: inline-block; 
     margin-left: 20px; 
 }
-#menu ul li a {
+#collapsibleNavbar ul li a {
     display: block;
     padding: 1em 1.5em; 
     text-decoration: none;
@@ -74,15 +74,15 @@ header img{
     transition: background-color 0.3s; 
 }
 
-#menu ul li:hover > ul {
+#collapsibleNavbar ul li:hover > ul {
 	display: block;
 }
 
-#menu ul li a:hover {
+#collapsibleNavbar ul li a:hover {
     background-color: #F7879A; 
 }
 
-#menu ul li a.active {
+#collapsibleNavbar ul li a.active {
     background-color: #F7879A; 
     color: white; 
 }
