@@ -157,6 +157,7 @@ a:focus, a:hover {
 .btn{
 	margin-left: 4em; 
 	background-color: #F7879A;
+	color: black; 
 }
 
 footer {

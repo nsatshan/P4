@@ -137,6 +137,7 @@ main p{
 .btn {
 	margin-left: 4em; 
 	background-color: #F7879A;
+	color: black;
 }
 a:focus, a:hover {
 	font-style: italic;
