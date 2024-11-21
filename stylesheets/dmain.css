@@ -92,6 +92,13 @@ header img{
     background-color: #F7879A; 
     color: white; 
 }
+.navbar-toggler{
+	background-color: #511418; 
+}
+
+.navbar-toggler-icon{
+	background-color: #511418; 
+}
 
 /*main rulers */
 
