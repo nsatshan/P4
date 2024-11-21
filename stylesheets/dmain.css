@@ -50,19 +50,24 @@ header img{
 }
 
 #collapsibleNavbar{
-	 flex-grow: 1;
+	flex-grow: 1;
     text-align: right;
+	background-color: #511418; 
 }
+
 #collapsibleNavbar ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 1em 0;
+	 background-color: #511418;
 }
 
 #collapsibleNavbar ul li {
 	display: inline-block; 
     margin-left: 20px; 
+	 background-color: #511418;
 }
+
 #collapsibleNavbar ul li a {
     display: block;
     padding: 1em 1.5em; 
