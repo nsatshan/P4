@@ -155,6 +155,7 @@ a:focus, a:hover {
 }
 
 .btn{
+	margin-left: 2em; 
 	background-color: #F7879A;
 }
 
