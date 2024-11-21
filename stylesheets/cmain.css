@@ -1,3 +1,5 @@
+/* Nada Atshan, IS117-001-P4 */ 
+
 *{
 	margin: 0; 
 	padding : 0; 
@@ -132,6 +134,10 @@ main p{
 
 }
 
+.btn btn-primary{
+	margin-left: 2em; 
+	background-color: #F7879A;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
