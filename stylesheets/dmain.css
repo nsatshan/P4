@@ -100,6 +100,10 @@ header img{
 	background-color: #511418; 
 }
 
+.navbar-nav{
+	text-align: right; 
+}
+
 /*main rulers */
 
 main h4{
