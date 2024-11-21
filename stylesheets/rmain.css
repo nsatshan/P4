@@ -51,7 +51,6 @@ header img{
 
 #collapsibleNavbar{
 	flex-grow: 1;
-    text-align: right;
 	background-color: #511418; 
 }
 
@@ -60,7 +59,7 @@ header img{
 	margin: 0;
 	padding: 1em 0;
 	background-color: #511418;
-	text-align: right;
+	
 }
 
 #collapsibleNavbar ul li {
@@ -100,9 +99,6 @@ header img{
 	background-color: #511418; 
 }
 
-.navbar-nav{
-	text-align: right; 
-}
 
 /*main rulers */
 main img {
