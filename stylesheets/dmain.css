@@ -66,7 +66,7 @@ header img{
 #collapsibleNavbar ul li {
 	display: inline-block; 
     margin-left: 20px; 
-	 background-color: #511418;
+	background-color: #511418;
 }
 
 #collapsibleNavbar ul li a {
@@ -98,15 +98,6 @@ header img{
 
 .navbar-toggler-icon{
 	background-color: #511418; 
-}
-
-.navbar-nav{
-	text-align: right; 
-	background-color: #511418; 
-}
-.navbar navbar-expand-md justify-content-start bg-dark navbar-dark col-12 {
-	background-color: #511418;
-	text-align: right; 
 }
 
 /*main rulers */
